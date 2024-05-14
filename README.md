@@ -20,4 +20,4 @@
 [![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/docs/manual/)
 [![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](https://dev.mysql.com/doc/)
 
-![snake gif](https://github.com/SEU_USUARIO/SEU_REPOSITORIO/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
+![snake gif](https://github.com/Sinariac/Sinariac/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
